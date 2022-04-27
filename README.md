@@ -1,1 +1,8 @@
 # test-plantuml
+
+```plantuml
+@startuml
+object firstObject
+object "My Second Object" as o2
+@enduml
+```
